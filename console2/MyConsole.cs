@@ -25,6 +25,9 @@ namespace console2
             myBenchObjectHandler.addObject(true,"true");
             myBenchObjectHandler.addObject(false, "false");
             myBenchObjectHandler.addObject(new IntParser(),"intParser");
+            
+            myBenchObjectHandler.addObject(new TestClass(), "testObject");
+
         }
         /// <summary>
         /// Adds the plugin.

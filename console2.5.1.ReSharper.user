@@ -794,20 +794,17 @@
       <File id="83043BFC-8964-4A3B-85F6-4BB891E6AF48/d:Plugin/f:PluginHanddler.cs" caret="4854" fromTop="77" />
       <File id="83043BFC-8964-4A3B-85F6-4BB891E6AF48/d:Execution/d:Precompilation/f:PreInterpreter.cs" caret="1852" fromTop="20" />
       <File id="83043BFC-8964-4A3B-85F6-4BB891E6AF48/f:Form1.cs" caret="608" fromTop="15" />
-      <File id="83043BFC-8964-4A3B-85F6-4BB891E6AF48/f:MyConsole.cs" caret="2284" fromTop="15" />
       <File id="83043BFC-8964-4A3B-85F6-4BB891E6AF48/d:Plugin/f:BenchHandler.cs" caret="0" fromTop="0" />
       <File id="07D906FB-08E1-46B2-B132-F32F44CA6CC8/f:PreInterpreterTest.cs" caret="2634" fromTop="17" />
       <File id="83043BFC-8964-4A3B-85F6-4BB891E6AF48/d:Plugin/f:IntParser.cs" caret="275" fromTop="12" />
-      <File id="83043BFC-8964-4A3B-85F6-4BB891E6AF48/f:Program.cs" caret="373" fromTop="13" />
       <File id="07D906FB-08E1-46B2-B132-F32F44CA6CC8/f:Program.cs" caret="486" fromTop="0" />
       <File id="83043BFC-8964-4A3B-85F6-4BB891E6AF48/f:AutoCompleter.cs" caret="7328" fromTop="19" />
       <File id="83043BFC-8964-4A3B-85F6-4BB891E6AF48/d:Execution/f:InterPreter.cs" caret="13" fromTop="0" />
+      <File id="83043BFC-8964-4A3B-85F6-4BB891E6AF48/f:Program.cs" caret="675" fromTop="24" />
+      <File id="83043BFC-8964-4A3B-85F6-4BB891E6AF48/f:MyConsole.cs" caret="1233" fromTop="31" />
+      <File id="83043BFC-8964-4A3B-85F6-4BB891E6AF48/f:TestClass.cs" caret="189" fromTop="8" />
     </RecentFiles>
     <RecentEdits>
-      <File id="83043BFC-8964-4A3B-85F6-4BB891E6AF48/d:Execution/f:InterPreter.cs" caret="17322" fromTop="20" />
-      <File id="83043BFC-8964-4A3B-85F6-4BB891E6AF48/d:Execution/f:InterPreter.cs" caret="17322" fromTop="27" />
-      <File id="83043BFC-8964-4A3B-85F6-4BB891E6AF48/d:Execution/f:InterPreter.cs" caret="17322" fromTop="22" />
-      <File id="83043BFC-8964-4A3B-85F6-4BB891E6AF48/d:Execution/f:InterPreter.cs" caret="9457" fromTop="34" />
       <File id="83043BFC-8964-4A3B-85F6-4BB891E6AF48/d:Execution/f:InterPreter.cs" caret="9457" fromTop="26" />
       <File id="83043BFC-8964-4A3B-85F6-4BB891E6AF48/d:Execution/f:InterPreter.cs" caret="9457" fromTop="21" />
       <File id="83043BFC-8964-4A3B-85F6-4BB891E6AF48/d:Execution/f:InterPreter.cs" caret="9457" fromTop="32" />
@@ -834,6 +831,10 @@
       <File id="83043BFC-8964-4A3B-85F6-4BB891E6AF48/d:Execution/f:InterPreter.cs" caret="653" fromTop="16" />
       <File id="83043BFC-8964-4A3B-85F6-4BB891E6AF48/d:Execution/f:InterPreter.cs" caret="653" fromTop="22" />
       <File id="83043BFC-8964-4A3B-85F6-4BB891E6AF48/d:Execution/f:InterPreter.cs" caret="653" fromTop="15" />
+      <File id="83043BFC-8964-4A3B-85F6-4BB891E6AF48/f:Program.cs" caret="684" fromTop="24" />
+      <File id="83043BFC-8964-4A3B-85F6-4BB891E6AF48/f:TestClass.cs" caret="252" fromTop="10" />
+      <File id="83043BFC-8964-4A3B-85F6-4BB891E6AF48/f:MyConsole.cs" caret="1105" fromTop="27" />
+      <File id="83043BFC-8964-4A3B-85F6-4BB891E6AF48/f:TestClass.cs" caret="214" fromTop="10" />
     </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>
