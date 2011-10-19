@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="92f14169-5fde-4ac0-998c-11057a6661d0" name="JASPER@OMETHEIS 2011-09-07 20:43:34" runUser="OMETHEIS\JASPER" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="5a218a43-4bd4-4017-a240-84dd8b4f471f">
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+    <Deployment runDeploymentRoot="JASPER_OMETHEIS 2011-09-07 20_43_34" />
+  </TestSettings>
+  <Times creation="2011-09-07T20:43:34.2860914+02:00" queuing="2011-09-07T20:43:35.2621070+02:00" start="2011-09-07T20:43:35.5811253+02:00" finish="2011-09-07T20:43:36.0461424+02:00" />
+  <ResultSummary outcome="Inconclusive">
+    <Counters total="1" executed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="1" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="getListedItemsOfTextTest" storage="c:\users\jasper\documents\programmeren\progrpc\projects\projects2010\console2\testproject1\bin\release\testproject1.dll" id="820acb2b-2db1-b376-4ca4-09e058723980">
+      <Execution timeOut="1800000" id="38bfd755-7af0-4e40-8f6f-19b19f05bca9" />
+      <TestMethod codeBase="C:/Users/JASPER/Documents/programmeren/progrPc/projects/Projects2010/console2/TestProject1/bin/Release/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.AutoCompleterTest, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="getListedItemsOfTextTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="820acb2b-2db1-b376-4ca4-09e058723980" executionId="38bfd755-7af0-4e40-8f6f-19b19f05bca9" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="38bfd755-7af0-4e40-8f6f-19b19f05bca9" testId="820acb2b-2db1-b376-4ca4-09e058723980" testName="getListedItemsOfTextTest" computerName="OMETHEIS" duration="00:00:00.1937728" startTime="2011-09-07T20:43:35.6541261+02:00" endTime="2011-09-07T20:43:35.9261389+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Inconclusive" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="38bfd755-7af0-4e40-8f6f-19b19f05bca9">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.Inconclusive failed. Verify the correctness of this test method.</Message>
+          <StackTrace>   at TestProject1.AutoCompleterTest.getListedItemsOfTextTest() in C:\Users\JASPER\Documents\programmeren\progrPc\projects\Projects2010\console2\TestProject1\AutoCompleterTest.cs:line 80
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

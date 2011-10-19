@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="83043BFC-8964-4A3B-85F6-4BB891E6AF48" ModuleId="console2" />
+  <Module PersistentId="d:Miscellaneous Files" ModuleId="System.Windows.Forms" />
+  <Module PersistentId="07D906FB-08E1-46B2-B132-F32F44CA6CC8" ModuleId="AutoCompleterTest" />
+</Modules>

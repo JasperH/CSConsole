@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="193167fe-ddbc-4914-8b57-00b76ffabf74" name="JASPER@OMETHEIS 2011-09-18 20:54:41" runUser="OMETHEIS\JASPER" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="dd88ff50-7145-4656-9ce6-8fb09aad029c">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="JASPER_OMETHEIS 2011-09-18 20_54_41" />
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2011-09-18T20:54:41.6578331+02:00" queuing="2011-09-18T20:54:42.0166338+02:00" start="2011-09-18T20:54:42.3442343+02:00" finish="2011-09-18T20:54:42.7186350+02:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="seperateTestPart1" storage="c:\users\jasper\documents\programmeren\progrpc\projectsvisual\projects2010\console2\autocompletertest\bin\release\autocompletertest.dll" id="b7c1c319-391d-ad58-970d-bc1e7b095641">
+      <Execution timeOut="1800000" id="67401e3b-f3f2-43e0-8e2b-0624817b3e13" />
+      <TestMethod codeBase="C:/Users/JASPER/Documents/programmeren/progrPc/projectsVisual/Projects2010/console2/AutoCompleterTest/bin/Release/AutoCompleterTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="AutoCompleterTest.ExecutionNodeTest, AutoCompleterTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="seperateTestPart1" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="b7c1c319-391d-ad58-970d-bc1e7b095641" executionId="67401e3b-f3f2-43e0-8e2b-0624817b3e13" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="67401e3b-f3f2-43e0-8e2b-0624817b3e13" testId="b7c1c319-391d-ad58-970d-bc1e7b095641" testName="seperateTestPart1" computerName="OMETHEIS" duration="00:00:00.1055750" startTime="2011-09-18T20:54:42.4534345+02:00" endTime="2011-09-18T20:54:42.6250348+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="67401e3b-f3f2-43e0-8e2b-0624817b3e13">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.IsTrue failed. </Message>
+          <StackTrace>   at AutoCompleterTest.ExecutionNodeTest.seperateTestPart1() in C:\Users\JASPER\Documents\programmeren\progrPc\projectsVisual\Projects2010\console2\AutoCompleterTest\ExecutionNodeTest.cs:line 73
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

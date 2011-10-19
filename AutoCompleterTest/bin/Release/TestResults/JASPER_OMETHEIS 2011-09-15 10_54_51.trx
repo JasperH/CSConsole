@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="bc3d5b43-fae8-41d9-a42a-017783e70612" name="JASPER@OMETHEIS 2011-09-15 10:54:51" runUser="OMETHEIS\JASPER" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="dd88ff50-7145-4656-9ce6-8fb09aad029c">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="JASPER_OMETHEIS 2011-09-15 10_54_51" />
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2011-09-15T10:54:51.1345789+02:00" queuing="2011-09-15T10:54:51.5965841+02:00" start="2011-09-15T10:54:51.9335962+02:00" finish="2011-09-15T10:54:52.3946052+02:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="OMETHEIS" outcome="Warning" timestamp="2011-09-15T10:54:51.3245792+02:00">
+        <Text>Deployment is currently disabled. The deployment item 'console2.exe' on test 'AutoCompleterTest.AutoCompleterTest.getListOfSubStringTest' was not deployed.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="getListOfSubStringTest" storage="c:\users\jasper\documents\programmeren\progrpc\projectsvisual\projects2010\console2\autocompletertest\bin\release\autocompletertest.dll" id="1e3dacc3-cfe5-3aa8-f6ee-d65ac422e569">
+      <Execution timeOut="1800000" id="5f0cc541-f067-42ba-b748-5faabbb38285" />
+      <DeploymentItems>
+        <DeploymentItem filename="console2.exe" />
+      </DeploymentItems>
+      <TestMethod codeBase="C:/Users/JASPER/Documents/programmeren/progrPc/projectsVisual/Projects2010/console2/AutoCompleterTest/bin/Release/AutoCompleterTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="AutoCompleterTest.AutoCompleterTest, AutoCompleterTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="getListOfSubStringTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="1e3dacc3-cfe5-3aa8-f6ee-d65ac422e569" executionId="5f0cc541-f067-42ba-b748-5faabbb38285" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="5f0cc541-f067-42ba-b748-5faabbb38285" testId="1e3dacc3-cfe5-3aa8-f6ee-d65ac422e569" testName="getListOfSubStringTest" computerName="OMETHEIS" duration="00:00:00.1788185" startTime="2011-09-15T10:54:52.0205989+02:00" endTime="2011-09-15T10:54:52.2826027+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5f0cc541-f067-42ba-b748-5faabbb38285">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreEqual failed. Expected:&lt;System.String[]&gt;. Actual:&lt;System.String[]&gt;. </Message>
+          <StackTrace>   at AutoCompleterTest.AutoCompleterTest.getListOfSubStringTest() in C:\Users\JASPER\Documents\programmeren\progrPc\projectsVisual\Projects2010\console2\AutoCompleterTest\AutoCompleterTest.cs:line 95
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

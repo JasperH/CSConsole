@@ -1,0 +1,850 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">False</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="void" priority="44" />
+      <Item value="object" priority="22" />
+      <Item value="int" priority="53" />
+      <Item value="private" priority="70" />
+      <Item value="params" priority="0" />
+      <Item value="interface" priority="1" />
+      <Item value="IExpression`0" priority="12" />
+      <Item value="IPlugin`0" priority="30" />
+      <Item value="public" priority="118" />
+      <Item value="List" priority="35" />
+      <Item value="ExpressionTree`0" priority="0" />
+      <Item value="class" priority="14" />
+      <Item value="return" priority="106" />
+      <Item value="TestPluginDeBoerderij`0" priority="4" />
+      <Item value="static" priority="12" />
+      <Item value="bijJos" priority="0" />
+      <Item value="new" priority="126" />
+      <Item value="TestPluginDeBoerderij" priority="0" />
+      <Item value="mainPlugin" priority="0" />
+      <Item value="bool" priority="8" />
+      <Item value="parentExpression" priority="0" />
+      <Item value="prop" priority="0" />
+      <Item value="throw" priority="33" />
+      <Item value="NotImplementedException" priority="19" />
+      <Item value="using" priority="7" />
+      <Item value="target" priority="0" />
+      <Item value="method" priority="0" />
+      <Item value="Farmer`0" priority="2" />
+      <Item value="Animal`0" priority="1" />
+      <Item value="string" priority="96" />
+      <Item value="out" priority="38" />
+      <Item value="name" priority="9" />
+      <Item value="IExpression" priority="2" />
+      <Item value="farm" priority="8" />
+      <Item value="null" priority="9" />
+      <Item value="this" priority="19" />
+      <Item value="List&lt;IExpression&gt;" priority="2" />
+      <Item value="animal" priority="3" />
+      <Item value="farmer" priority="2" />
+      <Item value="ak" priority="1" />
+      <Item value="Type`0" priority="19" />
+      <Item value="d" priority="2" />
+      <Item value="MethodInfo`0" priority="7" />
+      <Item value="enum" priority="1" />
+      <Item value="PluginObject`0" priority="1" />
+      <Item value="Object`0" priority="22" />
+      <Item value="myObject" priority="3" />
+      <Item value="theObject" priority="0" />
+      <Item value="System" priority="5" />
+      <Item value="Reflection" priority="3" />
+      <Item value="myPlugin" priority="4" />
+      <Item value="thePlugin" priority="0" />
+      <Item value="myType" priority="2" />
+      <Item value="List&lt;string&gt;" priority="4" />
+      <Item value="Program`0" priority="0" />
+      <Item value="List&lt;IPlugin&gt;" priority="0" />
+      <Item value="a" priority="28" />
+      <Item value="z" priority="10" />
+      <Item value="plugin" priority="10" />
+      <Item value="Boolean`0" priority="8" />
+      <Item value="PluginTypeHanddler`0" priority="1" />
+      <Item value="myPluginTypeHanddler" priority="4" />
+      <Item value="Exception" priority="0" />
+      <Item value="NotFiniteNumberException" priority="0" />
+      <Item value="canHaveAsExecutionTypes`0" priority="0" />
+      <Item value="AbandonedMutexException" priority="1" />
+      <Item value="Console`0" priority="7" />
+      <Item value="OutOfMemoryException`0" priority="0" />
+      <Item value="Dictionary" priority="11" />
+      <Item value="String`0" priority="29" />
+      <Item value="type" priority="6" />
+      <Item value="AppDomainSetup`0" priority="0" />
+      <Item value="HashSet" priority="0" />
+      <Item value="BindingMemberInfo`0" priority="0" />
+      <Item value="fd" priority="0" />
+      <Item value="Contains`1" priority="0" />
+      <Item value="EventHandler`0" priority="1" />
+      <Item value="richTextBox1_KeyDown`0" priority="0" />
+      <Item value="EventArgs`0" priority="0" />
+      <Item value="e" priority="40" />
+      <Item value="true" priority="18" />
+      <Item value="if" priority="129" />
+      <Item value="KeyCode" priority="0" />
+      <Item value="Keys`0" priority="1" />
+      <Item value="KeysConverter`0" priority="3" />
+      <Item value="abstract" priority="0" />
+      <Item value="textBox1" priority="10" />
+      <Item value="richTextBox1" priority="22" />
+      <Item value="false" priority="12" />
+      <Item value="autoCompletionBox" priority="32" />
+      <Item value="AutoCompleter`0" priority="12" />
+      <Item value="timer1" priority="7" />
+      <Item value="else" priority="4" />
+      <Item value="Timer`0" priority="1" />
+      <Item value="ArgumentNullException`0" priority="0" />
+      <Item value="console2" priority="2" />
+      <Item value="hasProperAutoCompletionWord`0" priority="1" />
+      <Item value="newPosition" priority="6" />
+      <Item value="Enabled" priority="0" />
+      <Item value="richboxEnter`0" priority="0" />
+      <Item value="var" priority="7" />
+      <Item value="relativePosition" priority="1" />
+      <Item value="absolutePosition" priority="0" />
+      <Item value="listedItems" priority="9" />
+      <Item value="ComboBox`0" priority="0" />
+      <Item value="sourceText" priority="7" />
+      <Item value="KeyEventArgs`0" priority="3" />
+      <Item value="SyntaxErrorException" priority="0" />
+      <Item value="richBoxEscape`0" priority="0" />
+      <Item value="#endregion" priority="0" />
+      <Item value="Interpreter`0" priority="12" />
+      <Item value="theInterPreter" priority="0" />
+      <Item value="richboxTab`0" priority="0" />
+      <Item value="Form1`0" priority="1" />
+      <Item value="myTextBox" priority="1" />
+      <Item value="text" priority="35" />
+      <Item value="MyConsole`0" priority="16" />
+      <Item value="Form`0" priority="0" />
+      <Item value="Form1" priority="2" />
+      <Item value="myForm1" priority="3" />
+      <Item value="RichTextBox`0" priority="0" />
+      <Item value="thePlugins" priority="0" />
+      <Item value="print`0" priority="0" />
+      <Item value="HashSet&lt;IPlugin&gt;" priority="0" />
+      <Item value="readonly" priority="8" />
+      <Item value="Interpreter" priority="2" />
+      <Item value="myConsole" priority="7" />
+      <Item value="myInterPreter" priority="2" />
+      <Item value="MyConsole" priority="1" />
+      <Item value="aConsole" priority="4" />
+      <Item value="myAutoCompleter" priority="0" />
+      <Item value="AutoCompleter" priority="2" />
+      <Item value="Dictionary&lt;IPlugin,Dictionary&lt;string,Type&gt;&gt;" priority="0" />
+      <Item value="Dictionary&lt;Type,string&gt;" priority="0" />
+      <Item value="mainTypeDict" priority="11" />
+      <Item value="Dictionary&lt;string,Type&gt;" priority="0" />
+      <Item value="foreach" priority="24" />
+      <Item value="mainTypes" priority="12" />
+      <Item value="getStringOfType`0" priority="1" />
+      <Item value="mainType" priority="5" />
+      <Item value="retDictionary" priority="2" />
+      <Item value="getDictionaryOf`0" priority="0" />
+      <Item value="lookinDict" priority="1" />
+      <Item value="retType" priority="1" />
+      <Item value="for" priority="17" />
+      <Item value="keyValuePair" priority="2" />
+      <Item value="methodInfo" priority="6" />
+      <Item value="tests" priority="0" />
+      <Item value="Dictionary&lt;Dictionary&lt;int,int&gt;,int&gt;" priority="0" />
+      <Item value="myDic" priority="0" />
+      <Item value="typeString" priority="8" />
+      <Item value="lastIndex" priority="1" />
+      <Item value="getTypeNotGeneric`0" priority="0" />
+      <Item value="firstOccurence" priority="4" />
+      <Item value="while" priority="4" />
+      <Item value="result" priority="14" />
+      <Item value="numberOfGenericParameters" priority="3" />
+      <Item value="postgeneric" priority="4" />
+      <Item value="firstPart" priority="0" />
+      <Item value="position" priority="4" />
+      <Item value="genericDepth" priority="3" />
+      <Item value="char" priority="1" />
+      <Item value="lastChar" priority="2" />
+      <Item value="ReferenceEquals`0" priority="0" />
+      <Item value="getListedItemsOfText`0" priority="3" />
+      <Item value="normalParenThesis" priority="5" />
+      <Item value="i" priority="35" />
+      <Item value="theChar" priority="2" />
+      <Item value="useFullString" priority="9" />
+      <Item value="length" priority="3" />
+      <Item value="bracketDepth" priority="2" />
+      <Item value="startWord" priority="5" />
+      <Item value="retList" priority="22" />
+      <Item value="answer1" priority="1" />
+      <Item value="Length" priority="10" />
+      <Item value="EnvironmentVariableTarget`0" priority="0" />
+      <Item value="Assert`0" priority="11" />
+      <Item value="actual" priority="11" />
+      <Item value="ital" priority="0" />
+      <Item value="itar" priority="1" />
+      <Item value="itdg" priority="1" />
+      <Item value="itdic" priority="0" />
+      <Item value="itli" priority="0" />
+      <Item value="WaitCallback`0" priority="0" />
+      <Item value="ExecutionEngineException`0" priority="0" />
+      <Item value="nguid" priority="0" />
+      <Item value="tnnie" priority="25" />
+      <Item value="SortedSet&lt;string&gt;" priority="1" />
+      <Item value="SortedSet" priority="6" />
+      <Item value="comparer" priority="0" />
+      <Item value="stringOfType" priority="0" />
+      <Item value="selectionString" priority="12" />
+      <Item value="SortedDictionary" priority="1" />
+      <Item value="SortedDictionary&lt;string,Type&gt;" priority="0" />
+      <Item value="myPluginHanddler" priority="4" />
+      <Item value="PluginHanddler" priority="0" />
+      <Item value="value" priority="0" />
+      <Item value="plugins" priority="4" />
+      <Item value="pluginDict" priority="1" />
+      <Item value="myconsole" priority="7" />
+      <Item value="numberOfPlugins" priority="0" />
+      <Item value="numberOfMainTypes" priority="0" />
+      <Item value="returnArray" priority="4" />
+      <Item value="partial" priority="0" />
+      <Item value="getAllFirstBases`0" priority="1" />
+      <Item value="mainTypeDictStringToTypes" priority="1" />
+      <Item value="SortedList" priority="1" />
+      <Item value="mainTypeListStringToTypes" priority="0" />
+      <Item value="mainTypeStrings" priority="0" />
+      <Item value="retArray" priority="0" />
+      <Item value="s" priority="0" />
+      <Item value="retObjects" priority="2" />
+      <Item value="retString" priority="6" />
+      <Item value="getCompletionItemsOfText`0" priority="0" />
+      <Item value="cursorPosition" priority="7" />
+      <Item value="getPossibleItemsOutOfTextItems`0" priority="0" />
+      <Item value="ListedItems" priority="0" />
+      <Item value="getAllFirstBasesObjects`0" priority="0" />
+      <Item value="firstObjects" priority="0" />
+      <Item value="firstObject" priority="0" />
+      <Item value="getNextObjects`0" priority="0" />
+      <Item value="getNextStrings`0" priority="0" />
+      <Item value="nextObjects" priority="1" />
+      <Item value="previous" priority="0" />
+      <Item value="previousType" priority="5" />
+      <Item value="memberInfo" priority="30" />
+      <Item value="b" priority="0" />
+      <Item value="MemberTypes`0" priority="12" />
+      <Item value="Method" priority="2" />
+      <Item value="List&lt;object&gt;" priority="4" />
+      <Item value="nextString" priority="8" />
+      <Item value="firstOccurenceSquareBracket" priority="4" />
+      <Item value="Math`0" priority="1" />
+      <Item value="firstOccurenceNormalBracket" priority="0" />
+      <Item value="end" priority="3" />
+      <Item value="switch" priority="2" />
+      <Item value="case" priority="18" />
+      <Item value="break" priority="15" />
+      <Item value="List&lt;Type&gt;" priority="0" />
+      <Item value="nextTypes" priority="7" />
+      <Item value="nextNames" priority="1" />
+      <Item value="expected" priority="7" />
+      <Item value="AutoCompleter_Accessor`0" priority="1" />
+      <Item value="is" priority="1" />
+      <Item value="internal" priority="0" />
+      <Item value="Type" priority="2" />
+      <Item value="GeneralPlugin`0" priority="0" />
+      <Item value="Point`0" priority="0" />
+      <Item value="Point" priority="0" />
+      <Item value="extraDistanceForBox" priority="0" />
+      <Item value="flag" priority="2" />
+      <Item value="setVisiblityAndDroppingDownAutoCompletionBox`0" priority="5" />
+      <Item value="possibilities" priority="8" />
+      <Item value="listedItemsOfText" priority="5" />
+      <Item value="autoCompleteText`0" priority="0" />
+      <Item value="lengthOfOldWord" priority="1" />
+      <Item value="word" priority="1" />
+      <Item value="listedItem" priority="0" />
+      <Item value="retItem" priority="0" />
+      <Item value="retItems" priority="0" />
+      <Item value="default" priority="2" />
+      <Item value="catch" priority="2" />
+      <Item value="AmbiguousMatchException`0" priority="0" />
+      <Item value="aME" priority="0" />
+      <Item value="Windows" priority="1" />
+      <Item value="Forms" priority="1" />
+      <Item value="KeyEventHandler`0" priority="0" />
+      <Item value="PreviewKeyDownEventHandler`0" priority="2" />
+      <Item value="sender" priority="0" />
+      <Item value="PreviewKeyDownEventArgs`0" priority="0" />
+      <Item value="KeyEventArgs" priority="0" />
+      <Item value="myInterpreter" priority="0" />
+      <Item value="Execution" priority="2" />
+      <Item value="BenchObject`0" priority="1" />
+      <Item value="List&lt;BenchObject&gt;" priority="0" />
+      <Item value="BenchObjectHandler`0" priority="1" />
+      <Item value="bObject" priority="0" />
+      <Item value="benchObject" priority="1" />
+      <Item value="benchObjects" priority="4" />
+      <Item value="retStringList" priority="0" />
+      <Item value="NewsStyleUriParser`0" priority="0" />
+      <Item value="Dictionary&lt;string,object&gt;" priority="0" />
+      <Item value="retObject" priority="1" />
+      <Item value="try" priority="1" />
+      <Item value="theConsole" priority="6" />
+      <Item value="Exception`0" priority="2" />
+      <Item value="myBenchObjectHandler" priority="6" />
+      <Item value="BenchObjectHandler" priority="0" />
+      <Item value="ListBox`0" priority="1" />
+      <Item value="listBox1" priority="0" />
+      <Item value="getMyListBox" priority="0" />
+      <Item value="key" priority="0" />
+      <Item value="lower" priority="0" />
+      <Item value="returnType" priority="0" />
+      <Item value="propertyType" priority="0" />
+      <Item value="code" priority="8" />
+      <Item value="Char`0" priority="1" />
+      <Item value="c" priority="4" />
+      <Item value="normalBracketDepth" priority="2" />
+      <Item value="oldStart" priority="3" />
+      <Item value="ExecutionNode`0" priority="23" />
+      <Item value="List&lt;ExecutionNode&gt;" priority="2" />
+      <Item value="ArgumentException`0" priority="1" />
+      <Item value="parentNode" priority="7" />
+      <Item value="NullReferenceException`0" priority="0" />
+      <Item value="ExecutionNode" priority="4" />
+      <Item value="rootNode" priority="12" />
+      <Item value="usingText" priority="2" />
+      <Item value="currentNode" priority="28" />
+      <Item value="currentCharacter" priority="10" />
+      <Item value="nextNode" priority="11" />
+      <Item value="parameterNodes" priority="3" />
+      <Item value="anteParallelNode" priority="0" />
+      <Item value="PostParallelNode" priority="0" />
+      <Item value="postDotNode" priority="0" />
+      <Item value="getAnteDotNode" priority="0" />
+      <Item value="anteDotNode" priority="0" />
+      <Item value="removeUselesWhite`0" priority="0" />
+      <Item value="opposite" priority="5" />
+      <Item value="dimLenth" priority="1" />
+      <Item value="toDelete" priority="3" />
+      <Item value="retText" priority="1" />
+      <Item value="Int32`0" priority="0" />
+      <Item value="ConstructorInfo`0" priority="0" />
+      <Item value="mainNode" priority="3" />
+      <Item value="getPostDotNode`0" priority="0" />
+      <Item value="executeBaseNode`0" priority="1" />
+      <Item value="firstNode" priority="8" />
+      <Item value="override" priority="0" />
+      <Item value="InterPreterException`0" priority="2" />
+      <Item value="InterPreterLogger`0" priority="4" />
+      <Item value="InterPreterLogger" priority="1" />
+      <Item value="theInterpreter" priority="0" />
+      <Item value="myLogger" priority="3" />
+      <Item value="enableLogging" priority="1" />
+      <Item value="message" priority="0" />
+      <Item value="setInterPretionLogging`0" priority="0" />
+      <Item value="enableFirstTake" priority="2" />
+      <Item value="ToManyBaseFoundException" priority="0" />
+      <Item value="executeDotAttachedNode`0" priority="0" />
+      <Item value="printMessageToLogger`0" priority="9" />
+      <Item value="executionText" priority="1" />
+      <Item value="myNode" priority="0" />
+      <Item value="parameterNode" priority="8" />
+      <Item value="getParameterObjects`0" priority="0" />
+      <Item value="onWhich" priority="6" />
+      <Item value="parameters" priority="6" />
+      <Item value="possibleMember" priority="3" />
+      <Item value="MemberInfo`0" priority="7" />
+      <Item value="List&lt;MemberInfo&gt;" priority="3" />
+      <Item value="possibleMembers" priority="13" />
+      <Item value="as" priority="1" />
+      <Item value="initialMember" priority="0" />
+      <Item value="replaceList" priority="1" />
+      <Item value="initialMembers" priority="0" />
+      <Item value="asrt" priority="0" />
+      <Item value="DotItemNotFoundException" priority="0" />
+      <Item value="onWichType" priority="6" />
+      <Item value="filterExtended" priority="0" />
+      <Item value="ToManyDotItemsFoundException`0" priority="0" />
+      <Item value="hasMethods" priority="0" />
+      <Item value="memberInfos" priority="2" />
+      <Item value="filterOnParameterTypes`0" priority="0" />
+      <Item value="chosen" priority="13" />
+      <Item value="Default" priority="0" />
+      <Item value="Binder`0" priority="0" />
+      <Item value="MethodBase`0" priority="1" />
+      <Item value="TextBox`0" priority="0" />
+      <Item value="beginOfString" priority="4" />
+      <Item value="inString" priority="4" />
+      <Item value="textToInterprete" priority="2" />
+      <Item value="NotFiniteNumberException`0" priority="0" />
+      <Item value="stringCounter" priority="1" />
+      <Item value="myPreInterpreter" priority="3" />
+      <Item value="PreInterpreter" priority="0" />
+      <Item value="MHGameWork" priority="0" />
+      <Item value="TheWizards" priority="0" />
+      <Item value="TestRunner" priority="0" />
+      <Item value="runner" priority="3" />
+      <Item value="Assembly`0" priority="0" />
+      <Item value="typeof" priority="0" />
+      <Item value="removeNoTextNodes`0" priority="2" />
+      <Item value="executionNode" priority="6" />
+      <Item value="IFormatProvider`0" priority="1" />
+      <Item value="papa" priority="0" />
+      <Item value="replacementString" priority="1" />
+      <Item value="Dictionary&lt;string,string&gt;" priority="1" />
+      <Item value="replacementStringDictionary" priority="0" />
+      <Item value="IAsyncResult`0" priority="0" />
+      <Item value="preInterpreted" priority="1" />
+      <Item value="preResult" priority="1" />
+      <Item value="enableLoggingLevel" priority="2" />
+      <Item value="number" priority="0" />
+      <Item value="IntParser`0" priority="0" />
+      <Item value="ArgumentException" priority="0" />
+      <Item value="errorCount" priority="1" />
+      <Item value="Count`1" priority="0" />
+      <Item value="isGood" priority="3" />
+      <Item value="continue" priority="0" />
+      <Item value="interp`0" priority="0" />
+      <Item value="interp" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@console2.tests.TestPluginDeBoerderij">
+      <Item value="deBoerderij`0" priority="0" />
+      <Item value="testTypes`0" priority="0" />
+      <Item value="testTypeToStringCOnversion`0" priority="0" />
+      <Item value="testAutoCompletionTextToStringArray`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:console2.IExpression">
+      <Item value="myObject" priority="3" />
+      <Item value="GetType`0" priority="1" />
+      <Item value="parentExpression" priority="2" />
+      <Item value="mainPlugin" priority="2" />
+      <Item value="subExpressions" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="GetType`0" priority="12" />
+      <Item value="ToString`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Type">
+      <Item value="GetMethod`0" priority="5" />
+      <Item value="GetConstructors`0" priority="0" />
+      <Item value="ToString`0" priority="5" />
+      <Item value="GetGenericArguments`0" priority="0" />
+      <Item value="FindMembers`0" priority="0" />
+      <Item value="GetMethods`0" priority="2" />
+      <Item value="GetMembers`0" priority="3" />
+      <Item value="GetConstructor`0" priority="0" />
+      <Item value="Name" priority="0" />
+      <Item value="GetFields`0" priority="0" />
+      <Item value="GetProperties`0" priority="2" />
+      <Item value="IsArray" priority="0" />
+      <Item value="IsGenericType" priority="0" />
+      <Item value="GetEnumValues`0" priority="0" />
+      <Item value="GetField`0" priority="1" />
+      <Item value="GetProperty`0" priority="1" />
+      <Item value="GetType`0" priority="0" />
+      <Item value="InvokeMember`0" priority="3" />
+      <Item value="Equals`0" priority="0" />
+      <Item value="IsInstanceOfType`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Reflection.MethodInfo">
+      <Item value="Invoke`0" priority="2" />
+      <Item value="ReturnParameter" priority="2" />
+      <Item value="GetParameters`0" priority="4" />
+      <Item value="GetType`0" priority="0" />
+      <Item value="Name" priority="0" />
+      <Item value="ReturnType" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Reflection.ParameterInfo">
+      <Item value="ParameterType" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="GetType`0" priority="9" />
+      <Item value="Add`0" priority="25" />
+      <Item value="ToArray`0" priority="5" />
+      <Item value="IndexOf`0" priority="0" />
+      <Item value="AddRange`0" priority="4" />
+      <Item value="Count" priority="8" />
+      <Item value="Contains`0" priority="3" />
+      <Item value="Remove`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:console2.IPlugin">
+      <Item value="getMainTypes`0" priority="0" />
+      <Item value="toar" priority="0" />
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:console2.PluginTypeHanddler">
+      <Item value="addMainTypes`0" priority="0" />
+      <Item value="canAddPlugin`0" priority="0" />
+      <Item value="addPluginExecutionTypes`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="Out" priority="3" />
+      <Item value="Beep`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.Dictionary`2">
+      <Item value="GetType`0" priority="5" />
+      <Item value="Add`0" priority="3" />
+      <Item value="TryGetValue`0" priority="4" />
+      <Item value="Values" priority="2" />
+      <Item value="Keys" priority="4" />
+      <Item value="Comparer" priority="0" />
+      <Item value="Remove`0" priority="0" />
+      <Item value="ContainsKey`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Reflection.FieldInfo">
+      <Item value="Name" priority="0" />
+      <Item value="FieldType" priority="0" />
+      <Item value="GetValue`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:console2.Form1">
+      <Item value="richTextBox1" priority="2" />
+      <Item value="autoCompletionBox" priority="3" />
+      <Item value="getRichTextBox1`0" priority="0" />
+      <Item value="myConsole" priority="0" />
+      <Item value="KeyDown" priority="0" />
+      <Item value="textBox1" priority="2" />
+      <Item value="getMyListBox`0" priority="2" />
+      <Item value="getTextBox`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.RichTextBox">
+      <Item value="KeyDown" priority="0" />
+      <Item value="AcceptsTab" priority="0" />
+      <Item value="SelectedText" priority="0" />
+      <Item value="SelectionStart" priority="4" />
+      <Item value="Text" priority="10" />
+      <Item value="GetPositionFromCharIndex`0" priority="0" />
+      <Item value="Location" priority="2" />
+      <Item value="Focus`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.KeyEventArgs">
+      <Item value="Handled" priority="0" />
+      <Item value="KeyCode" priority="13" />
+      <Item value="KeyValue" priority="3" />
+      <Item value="KeyData" priority="2" />
+      <Item value="SuppressKeyPress" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.Keys">
+      <Item value="Tab" priority="2" />
+      <Item value="KeyCode" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Keys">
+      <Item value="HasFlag`0" priority="0" />
+      <Item value="ToString`0" priority="12" />
+      <Item value="Equals`0" priority="1" />
+      <Item value="GetTypeCode`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TextBox">
+      <Item value="Text" priority="9" />
+      <Item value="AcceptsTab" priority="2" />
+      <Item value="CanFocus" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Equals`0" priority="21" />
+      <Item value="Contains`0" priority="4" />
+      <Item value="LastIndexOf`0" priority="0" />
+      <Item value="Substring`0" priority="14" />
+      <Item value="IndexOf`0" priority="1" />
+      <Item value="Length" priority="18" />
+      <Item value="Trim`0" priority="5" />
+      <Item value="StartsWith`0" priority="6" />
+      <Item value="GetType`0" priority="2" />
+      <Item value="Remove`0" priority="0" />
+      <Item value="Insert`0" priority="0" />
+      <Item value="ToLower`0" priority="11" />
+      <Item value="Replace`0" priority="0" />
+      <Item value="Clone`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ComboBox">
+      <Item value="Visible" priority="6" />
+      <Item value="IsAccessible" priority="0" />
+      <Item value="Items" priority="8" />
+      <Item value="SelectedItem" priority="7" />
+      <Item value="Focus`0" priority="0" />
+      <Item value="Location" priority="0" />
+      <Item value="DataSource" priority="1" />
+      <Item value="DropDownStyle" priority="0" />
+      <Item value="KeyDown" priority="1" />
+      <Item value="SelectedIndex" priority="1" />
+      <Item value="DroppedDown" priority="0" />
+      <Item value="PreviewKeyDown" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Timer">
+      <Item value="Interval" priority="1" />
+      <Item value="Stop`0" priority="2" />
+      <Item value="Start`0" priority="0" />
+      <Item value="Tick" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ComboBox+ObjectCollection">
+      <Item value="Contains`0" priority="0" />
+      <Item value="Count" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@console2.AutoCompleter">
+      <Item value="theAutoCompleter" priority="3" />
+      <Item value="getFirstPartOfName`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:console2.AutoCompleter">
+      <Item value="AutoCompleteText`0" priority="0" />
+      <Item value="getPossibleItemsOutOfTextItems`0" priority="1" />
+      <Item value="getListedItemsOfText`0" priority="0" />
+      <Item value="getAllFirstBasesObjects`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Point">
+      <Item value="X" priority="1" />
+      <Item value="Y" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@console2.Interpreter">
+      <Item value="getInterPreter`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:console2.Interpreter">
+      <Item value="interPrete`0" priority="1" />
+      <Item value="GetType`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.HashSet`1">
+      <Item value="Contains`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:console2.MyConsole">
+      <Item value="interPrete`0" priority="1" />
+      <Item value="run`0" priority="1" />
+      <Item value="myAutoCompleter" priority="4" />
+      <Item value="print`0" priority="1" />
+      <Item value="myPluginHanddler" priority="5" />
+      <Item value="GetType`0" priority="1" />
+      <Item value="addPlugin`0" priority="0" />
+      <Item value="printnl`0" priority="2" />
+      <Item value="updateObjectBench`0" priority="0" />
+      <Item value="myBenchObjectHandler" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:console2.Plugin.IPlugin">
+      <Item value="getMainTypes`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.KeyValuePair`2">
+      <Item value="Key" priority="1" />
+      <Item value="Value" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.TextWriter">
+      <Item value="WriteLine`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Char">
+      <Item value="ToString`0" priority="0" />
+      <Item value="GetType`0" priority="0" />
+      <Item value="Equals`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int32">
+      <Item value="TryParse`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.VisualStudio.TestTools.UnitTesting.Assert">
+      <Item value="IsTrue`0" priority="7" />
+      <Item value="Inconclusive`0" priority="0" />
+      <Item value="IsFalse`0" priority="0" />
+      <Item value="AreEqual`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.Dictionary`2+KeyCollection">
+      <Item value="CopyTo`0" priority="0" />
+      <Item value="ToList`1" priority="0" />
+      <Item value="Count" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Collections.Generic.SortedSet`1">
+      <Item value="Enumerator`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.SortedDictionary`2">
+      <Item value="Keys" priority="7" />
+      <Item value="ContainsKey`0" priority="0" />
+      <Item value="Values" priority="0" />
+      <Item value="Add`0" priority="0" />
+      <Item value="First`1" priority="0" />
+      <Item value="TryGetValue`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.SortedSet`1">
+      <Item value="Add`0" priority="1" />
+      <Item value="GetViewBetween`0" priority="1" />
+      <Item value="CopyTo`0" priority="2" />
+      <Item value="Count" priority="4" />
+      <Item value="First`1" priority="0" />
+      <Item value="ElementAt`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:console2.Plugin.PluginHanddler">
+      <Item value="addPlugin`0" priority="1" />
+      <Item value="getPossibleItemsOutOfMainTypeDict`0" priority="0" />
+      <Item value="getPossibleItemsOutOfpluginDict`0" priority="1" />
+      <Item value="getPossibleItemsOutOfpluginDictObjects`0" priority="0" />
+      <Item value="getPossibleItemsOutOfMainTypeDictObjects`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.SortedDictionary`2+KeyCollection">
+      <Item value="ToList`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.SortedList`2">
+      <Item value="GetViewBetween`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Reflection.MemberInfo">
+      <Item value="ToString`0" priority="1" />
+      <Item value="Name" priority="9" />
+      <Item value="MemberType" priority="11" />
+      <Item value="DeclaringType" priority="1" />
+      <Item value="ReflectedType" priority="0" />
+      <Item value="GetType`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Math">
+      <Item value="Min`0" priority="1" />
+      <Item value="E" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Reflection.MemberTypes">
+      <Item value="Constructor" priority="1" />
+      <Item value="Field" priority="1" />
+      <Item value="Property" priority="1" />
+      <Item value="Method" priority="2" />
+      <Item value="Event" priority="0" />
+      <Item value="NestedType" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Reflection.PropertyInfo">
+      <Item value="PropertyType" priority="0" />
+      <Item value="GetGetMethod`0" priority="0" />
+      <Item value="GetValue`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="CompareTo`0" priority="0" />
+      <Item value="GetType`0" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@console2.AutoCompleter_Accessor">
+      <Item value="getStartIndex`0" priority="0" />
+      <Item value="getListOfSubString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@console2.Plugin.PluginHanddler">
+      <Item value="getStringOfType`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Reflection.AmbiguousMatchException">
+      <Item value="Message" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.PreviewKeyDownEventHandler">
+      <Item value="GetInvocationList`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.PreviewKeyDownEventArgs">
+      <Item value="KeyCode" priority="3" />
+      <Item value="Modifiers" priority="1" />
+      <Item value="KeyData" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:console2.Plugin.BenchObject">
+      <Item value="getName`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Exception">
+      <Item value="Message" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:console2.Plugin.BenchObjectHandler">
+      <Item value="addObject`0" priority="5" />
+      <Item value="getNamesBenchObjects`0" priority="1" />
+      <Item value="getNamesMatchBenchObjects`0" priority="0" />
+      <Item value="getObjectsMatchBenchObjects`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ListBox">
+      <Item value="Refresh`0" priority="0" />
+      <Item value="DataSource" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:console2.Execution.ExecutionNode">
+      <Item value="parameterNodes" priority="1" />
+      <Item value="executionText" priority="19" />
+      <Item value="parentNode" priority="10" />
+      <Item value="PostParallelNode" priority="2" />
+      <Item value="postDotNode" priority="1" />
+      <Item value="anteParallelNode" priority="0" />
+      <Item value="anteDotNode" priority="1" />
+      <Item value="getPostDotNode`0" priority="6" />
+      <Item value="getPostParallelNode`0" priority="2" />
+      <Item value="getParameterNodes`0" priority="6" />
+      <Item value="Equals`0" priority="0" />
+      <Item value="getAnteParallelNode`0" priority="0" />
+      <Item value="hasPostDotNode`0" priority="0" />
+      <Item value="removeParameterNode`0" priority="1" />
+      <Item value="getAnteDotNode`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@console2.MyConsole">
+      <Item value="ctx" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@console2.Execution.Interpreter+ExecutionNode">
+      <Item value="seperate`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:console2.Execution.Interpreter">
+      <Item value="theConsole" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:console2.Execution.Interpreter+InterPreterLogger">
+      <Item value="printMessage`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Reflection.MethodBase">
+      <Item value="Invoke`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MHGameWork.TheWizards.Utilities.TestRunner">
+      <Item value="TestsAssembly" priority="2" />
+      <Item value="Run`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Reflection.Assembly">
+      <Item value="GetExecutingAssembly`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:console2.Execution.Precompilation.PreInterpreter">
+      <Item value="preInterprete`0" priority="0" />
+      <Item value="getReplacementStringDictionary`0" priority="1" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="07D906FB-08E1-46B2-B132-F32F44CA6CC8/f:AutoCompleterTest.cs" caret="4215" fromTop="66" />
+      <File id="07D906FB-08E1-46B2-B132-F32F44CA6CC8/f:ExecutionNodeTest.cs" caret="827" fromTop="17" />
+      <File id="07D906FB-08E1-46B2-B132-F32F44CA6CC8/f:PluginHanddlerTest.cs" caret="2147" fromTop="13" />
+      <File id="83043BFC-8964-4A3B-85F6-4BB891E6AF48/d:Plugin/f:PluginHanddler.cs" caret="4854" fromTop="77" />
+      <File id="83043BFC-8964-4A3B-85F6-4BB891E6AF48/d:Execution/d:Precompilation/f:PreInterpreter.cs" caret="1852" fromTop="20" />
+      <File id="83043BFC-8964-4A3B-85F6-4BB891E6AF48/f:Form1.cs" caret="608" fromTop="15" />
+      <File id="83043BFC-8964-4A3B-85F6-4BB891E6AF48/f:MyConsole.cs" caret="2284" fromTop="15" />
+      <File id="83043BFC-8964-4A3B-85F6-4BB891E6AF48/d:Plugin/f:BenchHandler.cs" caret="0" fromTop="0" />
+      <File id="07D906FB-08E1-46B2-B132-F32F44CA6CC8/f:PreInterpreterTest.cs" caret="2634" fromTop="17" />
+      <File id="83043BFC-8964-4A3B-85F6-4BB891E6AF48/d:Plugin/f:IntParser.cs" caret="275" fromTop="12" />
+      <File id="83043BFC-8964-4A3B-85F6-4BB891E6AF48/f:Program.cs" caret="373" fromTop="13" />
+      <File id="07D906FB-08E1-46B2-B132-F32F44CA6CC8/f:Program.cs" caret="486" fromTop="0" />
+      <File id="83043BFC-8964-4A3B-85F6-4BB891E6AF48/f:AutoCompleter.cs" caret="7328" fromTop="19" />
+      <File id="83043BFC-8964-4A3B-85F6-4BB891E6AF48/d:Execution/f:InterPreter.cs" caret="13" fromTop="0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="83043BFC-8964-4A3B-85F6-4BB891E6AF48/d:Execution/f:InterPreter.cs" caret="17322" fromTop="20" />
+      <File id="83043BFC-8964-4A3B-85F6-4BB891E6AF48/d:Execution/f:InterPreter.cs" caret="17322" fromTop="27" />
+      <File id="83043BFC-8964-4A3B-85F6-4BB891E6AF48/d:Execution/f:InterPreter.cs" caret="17322" fromTop="22" />
+      <File id="83043BFC-8964-4A3B-85F6-4BB891E6AF48/d:Execution/f:InterPreter.cs" caret="9457" fromTop="34" />
+      <File id="83043BFC-8964-4A3B-85F6-4BB891E6AF48/d:Execution/f:InterPreter.cs" caret="9457" fromTop="26" />
+      <File id="83043BFC-8964-4A3B-85F6-4BB891E6AF48/d:Execution/f:InterPreter.cs" caret="9457" fromTop="21" />
+      <File id="83043BFC-8964-4A3B-85F6-4BB891E6AF48/d:Execution/f:InterPreter.cs" caret="9457" fromTop="32" />
+      <File id="83043BFC-8964-4A3B-85F6-4BB891E6AF48/d:Execution/f:InterPreter.cs" caret="9457" fromTop="16" />
+      <File id="83043BFC-8964-4A3B-85F6-4BB891E6AF48/d:Execution/f:InterPreter.cs" caret="9457" fromTop="34" />
+      <File id="83043BFC-8964-4A3B-85F6-4BB891E6AF48/d:Execution/f:InterPreter.cs" caret="9390" fromTop="34" />
+      <File id="83043BFC-8964-4A3B-85F6-4BB891E6AF48/d:Execution/f:InterPreter.cs" caret="948" fromTop="20" />
+      <File id="83043BFC-8964-4A3B-85F6-4BB891E6AF48/d:Execution/f:InterPreter.cs" caret="948" fromTop="22" />
+      <File id="83043BFC-8964-4A3B-85F6-4BB891E6AF48/d:Execution/d:Precompilation/f:PreInterpreter.cs" caret="1158" fromTop="7" />
+      <File id="83043BFC-8964-4A3B-85F6-4BB891E6AF48/d:Execution/d:Precompilation/f:PreInterpreter.cs" caret="1656" fromTop="17" />
+      <File id="83043BFC-8964-4A3B-85F6-4BB891E6AF48/d:Execution/d:Precompilation/f:PreInterpreter.cs" caret="1955" fromTop="24" />
+      <File id="83043BFC-8964-4A3B-85F6-4BB891E6AF48/d:Execution/f:InterPreter.cs" caret="13061" fromTop="2" />
+      <File id="83043BFC-8964-4A3B-85F6-4BB891E6AF48/d:Execution/f:InterPreter.cs" caret="8762" fromTop="13" />
+      <File id="83043BFC-8964-4A3B-85F6-4BB891E6AF48/d:Execution/f:InterPreter.cs" caret="9424" fromTop="23" />
+      <File id="83043BFC-8964-4A3B-85F6-4BB891E6AF48/d:Execution/f:InterPreter.cs" caret="948" fromTop="5" />
+      <File id="83043BFC-8964-4A3B-85F6-4BB891E6AF48/f:AutoCompleter.cs" caret="699" fromTop="4" />
+      <File id="83043BFC-8964-4A3B-85F6-4BB891E6AF48/f:AutoCompleter.cs" caret="1479" fromTop="5" />
+      <File id="83043BFC-8964-4A3B-85F6-4BB891E6AF48/d:Execution/f:InterPreter.cs" caret="5712" fromTop="21" />
+      <File id="83043BFC-8964-4A3B-85F6-4BB891E6AF48/d:Execution/f:InterPreter.cs" caret="6456" fromTop="34" />
+      <File id="83043BFC-8964-4A3B-85F6-4BB891E6AF48/d:Execution/f:InterPreter.cs" caret="8000" fromTop="34" />
+      <File id="83043BFC-8964-4A3B-85F6-4BB891E6AF48/d:Execution/f:InterPreter.cs" caret="11031" fromTop="33" />
+      <File id="83043BFC-8964-4A3B-85F6-4BB891E6AF48/d:Execution/f:InterPreter.cs" caret="10719" fromTop="5" />
+      <File id="83043BFC-8964-4A3B-85F6-4BB891E6AF48/d:Execution/f:InterPreter.cs" caret="249" fromTop="0" />
+      <File id="83043BFC-8964-4A3B-85F6-4BB891E6AF48/d:Execution/f:InterPreter.cs" caret="653" fromTop="16" />
+      <File id="83043BFC-8964-4A3B-85F6-4BB891E6AF48/d:Execution/f:InterPreter.cs" caret="653" fromTop="22" />
+      <File id="83043BFC-8964-4A3B-85F6-4BB891E6AF48/d:Execution/f:InterPreter.cs" caret="653" fromTop="15" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

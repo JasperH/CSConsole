@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="af4f89f4-60dc-4acc-b5ea-bdbad25a3e3e" name="JASPER@OMETHEIS 2011-10-04 12:18:01" runUser="OMETHEIS\JASPER" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="dd88ff50-7145-4656-9ce6-8fb09aad029c">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="JASPER_OMETHEIS 2011-10-04 12_18_01">
+      <DeploymentItem filename="C:\Users\JASPER\Documents\programmeren\progrPc\libraryExternVisual\The Wizards Binaries\Bins\NewModules.dll" />
+      <DeploymentItem filename="C:\Users\JASPER\Documents\programmeren\progrPc\libraryExternVisual\The Wizards Binaries\Bins\Common.Core.dll" />
+      <DeploymentItem filename="C:\Users\JASPER\Documents\programmeren\progrPc\projectsVisual\Projects2010\console2\console2\bin\Debug\console2.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2011-10-04T12:18:01.1925838+02:00" queuing="2011-10-04T12:18:05.8964390+02:00" start="2011-10-04T12:18:06.2708396+02:00" finish="2011-10-04T12:18:20.8549127+02:00" />
+  <ResultSummary outcome="Error">
+    <Counters total="12" executed="2" passed="1" error="0" failed="0" timeout="0" aborted="1" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="10" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="OMETHEIS" outcome="Warning" timestamp="2011-10-04T12:18:01.2115848+02:00">
+        <Text>Deployment is currently disabled. The deployment item 'console2.exe' on test 'AutoCompleterTest.AutoCompleterTest.getNextStringsTest' was not deployed.</Text>
+      </RunInfo>
+      <RunInfo computerName="OMETHEIS" outcome="Error" timestamp="2011-10-04T12:18:20.8393127+02:00">
+        <Text>Test host process exited unexpectedly.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="getNextStringsTest" storage="c:\users\jasper\documents\programmeren\progrpc\projectsvisual\projects2010\console2\autocompletertest\bin\debug\autocompletertest.exe" id="4c0a0aa6-91ec-56c0-0d1b-79d5083beee0">
+      <DeploymentItems>
+        <DeploymentItem filename="console2.exe" />
+      </DeploymentItems>
+      <Execution id="11baa5c5-ebf8-4fac-a9a6-eaf72f108aa5" />
+      <TestMethod codeBase="C:/Users/JASPER/Documents/programmeren/progrPc/projectsVisual/Projects2010/console2/AutoCompleterTest/bin/Debug/AutoCompleterTest.EXE" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="AutoCompleterTest.AutoCompleterTest, AutoCompleterTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="getNextStringsTest" />
+    </UnitTest>
+    <UnitTest name="getCompletionItemsOfTextTest" storage="c:\users\jasper\documents\programmeren\progrpc\projectsvisual\projects2010\console2\autocompletertest\bin\debug\autocompletertest.exe" id="5f2f47c3-6b3d-d638-de48-d332c5bdf384">
+      <Execution id="1e2dde3d-81f7-4081-83d4-71a4950ac06e" />
+      <TestMethod codeBase="C:/Users/JASPER/Documents/programmeren/progrPc/projectsVisual/Projects2010/console2/AutoCompleterTest/bin/Debug/AutoCompleterTest.EXE" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="AutoCompleterTest.AutoCompleterTest, AutoCompleterTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="getCompletionItemsOfTextTest" />
+    </UnitTest>
+    <UnitTest name="getAllFirstBasesStringTest" storage="c:\users\jasper\documents\programmeren\progrpc\projectsvisual\projects2010\console2\autocompletertest\bin\debug\autocompletertest.exe" id="de575754-54e2-8d1c-c6f1-a7190edbadc3">
+      <DeploymentItems>
+        <DeploymentItem filename="console2.exe" />
+      </DeploymentItems>
+      <Execution id="b71c906a-557a-4231-9413-4929f9201684" />
+      <TestMethod codeBase="C:/Users/JASPER/Documents/programmeren/progrPc/projectsVisual/Projects2010/console2/AutoCompleterTest/bin/Debug/AutoCompleterTest.EXE" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="AutoCompleterTest.AutoCompleterTest, AutoCompleterTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="getAllFirstBasesStringTest" />
+    </UnitTest>
+    <UnitTest name="getNextObjectsTest" storage="c:\users\jasper\documents\programmeren\progrpc\projectsvisual\projects2010\console2\autocompletertest\bin\debug\autocompletertest.exe" id="329812f2-925c-63d9-2938-03f647a06733">
+      <DeploymentItems>
+        <DeploymentItem filename="console2.exe" />
+      </DeploymentItems>
+      <Execution id="c31c3242-9ad8-4ca3-8aa2-5866cb8d88b9" />
+      <TestMethod codeBase="C:/Users/JASPER/Documents/programmeren/progrPc/projectsVisual/Projects2010/console2/AutoCompleterTest/bin/Debug/AutoCompleterTest.EXE" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="AutoCompleterTest.AutoCompleterTest, AutoCompleterTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="getNextObjectsTest" />
+    </UnitTest>
+    <UnitTest name="getAllFirstBasesObjectsTest" storage="c:\users\jasper\documents\programmeren\progrpc\projectsvisual\projects2010\console2\autocompletertest\bin\debug\autocompletertest.exe" id="375966c9-470c-67ac-3e9f-79e444c349ef">
+      <DeploymentItems>
+        <DeploymentItem filename="console2.exe" />
+      </DeploymentItems>
+      <Execution id="67c0ede7-89ba-44e6-a209-beb81ec6b94f" />
+      <TestMethod codeBase="C:/Users/JASPER/Documents/programmeren/progrPc/projectsVisual/Projects2010/console2/AutoCompleterTest/bin/Debug/AutoCompleterTest.EXE" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="AutoCompleterTest.AutoCompleterTest, AutoCompleterTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="getAllFirstBasesObjectsTest" />
+    </UnitTest>
+    <UnitTest name="preInterpreteTest" storage="c:\users\jasper\documents\programmeren\progrpc\projectsvisual\projects2010\console2\autocompletertest\bin\debug\autocompletertest.exe" id="611760a0-3927-a68c-3bc5-fc499d9a86a3">
+      <Execution id="9dc22044-befe-443f-abe7-4f73ffea9f48" />
+      <TestMethod codeBase="C:/Users/JASPER/Documents/programmeren/progrPc/projectsVisual/Projects2010/console2/AutoCompleterTest/bin/Debug/AutoCompleterTest.EXE" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="AutoCompleterTest.PreInterpreterTest, AutoCompleterTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="preInterpreteTest" />
+    </UnitTest>
+    <UnitTest name="seperateTestPart1" storage="c:\users\jasper\documents\programmeren\progrpc\projectsvisual\projects2010\console2\autocompletertest\bin\debug\autocompletertest.exe" id="b7c1c319-391d-ad58-970d-bc1e7b095641">
+      <Execution id="099b57ec-8b09-43f4-9748-3716238385d5" />
+      <TestMethod codeBase="C:/Users/JASPER/Documents/programmeren/progrPc/projectsVisual/Projects2010/console2/AutoCompleterTest/bin/Debug/AutoCompleterTest.EXE" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="AutoCompleterTest.ExecutionNodeTest, AutoCompleterTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="seperateTestPart1" />
+    </UnitTest>
+    <UnitTest name="getListedItemsOfTextTest" storage="c:\users\jasper\documents\programmeren\progrpc\projectsvisual\projects2010\console2\autocompletertest\bin\debug\autocompletertest.exe" id="465b132f-a25d-fde8-b6cb-03927ceb30f6">
+      <DeploymentItems>
+        <DeploymentItem filename="console2.exe" />
+      </DeploymentItems>
+      <Execution id="db96cff4-4c03-485d-b1b7-9a7fcb17acdc" />
+      <TestMethod codeBase="C:/Users/JASPER/Documents/programmeren/progrPc/projectsVisual/Projects2010/console2/AutoCompleterTest/bin/Debug/AutoCompleterTest.EXE" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="AutoCompleterTest.AutoCompleterTest, AutoCompleterTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="getListedItemsOfTextTest" />
+    </UnitTest>
+    <UnitTest name="getPossibleItemsOutOfTextItemsTest" storage="c:\users\jasper\documents\programmeren\progrpc\projectsvisual\projects2010\console2\autocompletertest\bin\debug\autocompletertest.exe" id="6f68c000-8a6a-ce03-bf40-96c33fea81c7">
+      <DeploymentItems>
+        <DeploymentItem filename="console2.exe" />
+      </DeploymentItems>
+      <Execution id="e4da4979-0736-49c5-8f97-41c4707bdddc" />
+      <TestMethod codeBase="C:/Users/JASPER/Documents/programmeren/progrPc/projectsVisual/Projects2010/console2/AutoCompleterTest/bin/Debug/AutoCompleterTest.EXE" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="AutoCompleterTest.AutoCompleterTest, AutoCompleterTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="getPossibleItemsOutOfTextItemsTest" />
+    </UnitTest>
+    <UnitTest name="getStringOfTypeTest" storage="c:\users\jasper\documents\programmeren\progrpc\projectsvisual\projects2010\console2\autocompletertest\bin\debug\autocompletertest.exe" id="e4860dda-7020-4653-4854-5c0e5cbc8385">
+      <Execution id="570c1144-942f-4892-970d-87ae035e4a71" />
+      <TestMethod codeBase="C:/Users/JASPER/Documents/programmeren/progrPc/projectsVisual/Projects2010/console2/AutoCompleterTest/bin/Debug/AutoCompleterTest.EXE" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="AutoCompleterTest.PluginHanddlerTest, AutoCompleterTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="getStringOfTypeTest" />
+    </UnitTest>
+    <UnitTest name="getListOfSubStringTest" storage="c:\users\jasper\documents\programmeren\progrpc\projectsvisual\projects2010\console2\autocompletertest\bin\debug\autocompletertest.exe" id="1e3dacc3-cfe5-3aa8-f6ee-d65ac422e569">
+      <DeploymentItems>
+        <DeploymentItem filename="console2.exe" />
+      </DeploymentItems>
+      <Execution id="2648ee63-4464-4324-87dc-53b61fc30183" />
+      <TestMethod codeBase="C:/Users/JASPER/Documents/programmeren/progrPc/projectsVisual/Projects2010/console2/AutoCompleterTest/bin/Debug/AutoCompleterTest.EXE" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="AutoCompleterTest.AutoCompleterTest, AutoCompleterTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="getListOfSubStringTest" />
+    </UnitTest>
+    <UnitTest name="getStartIndexTest" storage="c:\users\jasper\documents\programmeren\progrpc\projectsvisual\projects2010\console2\autocompletertest\bin\debug\autocompletertest.exe" id="d601350c-ce63-65ae-ad74-b02f683cf86d">
+      <DeploymentItems>
+        <DeploymentItem filename="console2.exe" />
+      </DeploymentItems>
+      <Execution id="68f06706-70dd-4da1-97cf-9da76f37cf60" />
+      <TestMethod codeBase="C:/Users/JASPER/Documents/programmeren/progrPc/projectsVisual/Projects2010/console2/AutoCompleterTest/bin/Debug/AutoCompleterTest.EXE" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="AutoCompleterTest.AutoCompleterTest, AutoCompleterTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="getStartIndexTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="b7c1c319-391d-ad58-970d-bc1e7b095641" executionId="099b57ec-8b09-43f4-9748-3716238385d5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e4860dda-7020-4653-4854-5c0e5cbc8385" executionId="570c1144-942f-4892-970d-87ae035e4a71" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="5f2f47c3-6b3d-d638-de48-d332c5bdf384" executionId="1e2dde3d-81f7-4081-83d4-71a4950ac06e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="465b132f-a25d-fde8-b6cb-03927ceb30f6" executionId="db96cff4-4c03-485d-b1b7-9a7fcb17acdc" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="1e3dacc3-cfe5-3aa8-f6ee-d65ac422e569" executionId="2648ee63-4464-4324-87dc-53b61fc30183" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d601350c-ce63-65ae-ad74-b02f683cf86d" executionId="68f06706-70dd-4da1-97cf-9da76f37cf60" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="329812f2-925c-63d9-2938-03f647a06733" executionId="c31c3242-9ad8-4ca3-8aa2-5866cb8d88b9" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="4c0a0aa6-91ec-56c0-0d1b-79d5083beee0" executionId="11baa5c5-ebf8-4fac-a9a6-eaf72f108aa5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="6f68c000-8a6a-ce03-bf40-96c33fea81c7" executionId="e4da4979-0736-49c5-8f97-41c4707bdddc" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="de575754-54e2-8d1c-c6f1-a7190edbadc3" executionId="b71c906a-557a-4231-9413-4929f9201684" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="375966c9-470c-67ac-3e9f-79e444c349ef" executionId="67c0ede7-89ba-44e6-a209-beb81ec6b94f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="611760a0-3927-a68c-3bc5-fc499d9a86a3" executionId="9dc22044-befe-443f-abe7-4f73ffea9f48" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="099b57ec-8b09-43f4-9748-3716238385d5" testId="b7c1c319-391d-ad58-970d-bc1e7b095641" testName="seperateTestPart1" computerName="OMETHEIS" duration="00:00:00.0321689" startTime="2011-10-04T12:18:07.1756412+02:00" endTime="2011-10-04T12:18:09.0788446+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="099b57ec-8b09-43f4-9748-3716238385d5">
+    </UnitTestResult>
+    <UnitTestResult executionId="570c1144-942f-4892-970d-87ae035e4a71" testId="e4860dda-7020-4653-4854-5c0e5cbc8385" testName="getStringOfTypeTest" computerName="OMETHEIS" duration="00:00:11.7448681" startTime="2011-10-04T12:18:09.1100446+02:00" endTime="2011-10-04T12:18:20.8549127+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Aborted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="570c1144-942f-4892-970d-87ae035e4a71">
+    </UnitTestResult>
+    <UnitTestResult executionId="1e2dde3d-81f7-4081-83d4-71a4950ac06e" testId="5f2f47c3-6b3d-d638-de48-d332c5bdf384" testName="getCompletionItemsOfTextTest" computerName="OMETHEIS" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1e2dde3d-81f7-4081-83d4-71a4950ac06e">
+    </UnitTestResult>
+    <UnitTestResult executionId="db96cff4-4c03-485d-b1b7-9a7fcb17acdc" testId="465b132f-a25d-fde8-b6cb-03927ceb30f6" testName="getListedItemsOfTextTest" computerName="OMETHEIS" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="db96cff4-4c03-485d-b1b7-9a7fcb17acdc">
+    </UnitTestResult>
+    <UnitTestResult executionId="2648ee63-4464-4324-87dc-53b61fc30183" testId="1e3dacc3-cfe5-3aa8-f6ee-d65ac422e569" testName="getListOfSubStringTest" computerName="OMETHEIS" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2648ee63-4464-4324-87dc-53b61fc30183">
+    </UnitTestResult>
+    <UnitTestResult executionId="68f06706-70dd-4da1-97cf-9da76f37cf60" testId="d601350c-ce63-65ae-ad74-b02f683cf86d" testName="getStartIndexTest" computerName="OMETHEIS" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="68f06706-70dd-4da1-97cf-9da76f37cf60">
+    </UnitTestResult>
+    <UnitTestResult executionId="c31c3242-9ad8-4ca3-8aa2-5866cb8d88b9" testId="329812f2-925c-63d9-2938-03f647a06733" testName="getNextObjectsTest" computerName="OMETHEIS" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c31c3242-9ad8-4ca3-8aa2-5866cb8d88b9">
+    </UnitTestResult>
+    <UnitTestResult executionId="11baa5c5-ebf8-4fac-a9a6-eaf72f108aa5" testId="4c0a0aa6-91ec-56c0-0d1b-79d5083beee0" testName="getNextStringsTest" computerName="OMETHEIS" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="11baa5c5-ebf8-4fac-a9a6-eaf72f108aa5">
+    </UnitTestResult>
+    <UnitTestResult executionId="e4da4979-0736-49c5-8f97-41c4707bdddc" testId="6f68c000-8a6a-ce03-bf40-96c33fea81c7" testName="getPossibleItemsOutOfTextItemsTest" computerName="OMETHEIS" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e4da4979-0736-49c5-8f97-41c4707bdddc">
+    </UnitTestResult>
+    <UnitTestResult executionId="b71c906a-557a-4231-9413-4929f9201684" testId="de575754-54e2-8d1c-c6f1-a7190edbadc3" testName="getAllFirstBasesStringTest" computerName="OMETHEIS" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b71c906a-557a-4231-9413-4929f9201684">
+    </UnitTestResult>
+    <UnitTestResult executionId="67c0ede7-89ba-44e6-a209-beb81ec6b94f" testId="375966c9-470c-67ac-3e9f-79e444c349ef" testName="getAllFirstBasesObjectsTest" computerName="OMETHEIS" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="67c0ede7-89ba-44e6-a209-beb81ec6b94f">
+    </UnitTestResult>
+    <UnitTestResult executionId="9dc22044-befe-443f-abe7-4f73ffea9f48" testId="611760a0-3927-a68c-3bc5-fc499d9a86a3" testName="preInterpreteTest" computerName="OMETHEIS" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9dc22044-befe-443f-abe7-4f73ffea9f48">
+    </UnitTestResult>
+  </Results>
+</TestRun>

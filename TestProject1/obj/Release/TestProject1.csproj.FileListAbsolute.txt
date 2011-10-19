@@ -1,0 +1,7 @@
+C:\Users\JASPER\Documents\programmeren\progrPc\projects\Projects2010\console2\TestProject1\bin\Release\TestProject1.dll
+C:\Users\JASPER\Documents\programmeren\progrPc\projects\Projects2010\console2\TestProject1\bin\Release\TestProject1.pdb
+C:\Users\JASPER\Documents\programmeren\progrPc\projects\Projects2010\console2\TestProject1\bin\Release\console2.exe
+C:\Users\JASPER\Documents\programmeren\progrPc\projects\Projects2010\console2\TestProject1\bin\Release\console2.pdb
+C:\Users\JASPER\Documents\programmeren\progrPc\projects\Projects2010\console2\TestProject1\obj\Release\ResolveAssemblyReference.cache
+C:\Users\JASPER\Documents\programmeren\progrPc\projects\Projects2010\console2\TestProject1\obj\Release\TestProject1.dll
+C:\Users\JASPER\Documents\programmeren\progrPc\projects\Projects2010\console2\TestProject1\obj\Release\TestProject1.pdb
